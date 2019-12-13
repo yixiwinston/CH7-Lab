@@ -1,0 +1,6 @@
+	Name	Chinese	Math	English	Sum	Average
+	Yixi	70	80	90	240	80.00
+	Herry	60	71	92	223	74.33
+	Ellis	76	62	83	221	73.67
+	Andy	63	64	65	192	64.00
+	Yoshi	75	77	79	231	77.00

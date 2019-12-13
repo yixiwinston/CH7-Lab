@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\user\desktop\ch7lab\lab2\source\main.c(24): warning C4098: 'main': 'void' 函式正在傳回值
+c:\users\user\desktop\ch7lab\lab2\source\main.c(31): warning C4098: 'main': 'void' 函式正在傳回值
+  lab2.vcxproj -> C:\Users\USER\Desktop\CH7Lab\lab2\lab2\lab2\..\..\temp\debug\lab2.exe

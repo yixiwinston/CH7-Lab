@@ -1,0 +1,9 @@
+﻿  main.c
+c:\users\user\desktop\ch7lab\lab2\source\main.c(41): warning C4477: 'fscanf_s' : 格式字串 '%1f' 需要 'float *' 類型的引數，但 variadic 引數 1 的類型為 'double *'
+  c:\users\user\desktop\ch7lab\lab2\source\main.c(41): note: 請考慮在格式字串中使用 '%lf'
+c:\users\user\desktop\ch7lab\lab2\source\main.c(21): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\user\desktop\ch7lab\lab2\source\main.c(27): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\user\desktop\ch7lab\lab2\source\main.c(72): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
